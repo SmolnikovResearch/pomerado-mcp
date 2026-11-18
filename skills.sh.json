@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "groupings": [
+    {
+      "title": "Browser & Web-to-MCP (On-Demand)",
+      "skills": [
+        "pomerado-mcp"
+      ]
+    }
+  ]
+}
